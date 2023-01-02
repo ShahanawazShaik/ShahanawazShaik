@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahanawazShaik
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning MLmodelling
-- 💞️ I’m looking to collaborate on Web Automation
+- 🌎 I’m currently working as IT Trainee in FIS Global
+- ✍🏻 I’m open to collaborate with my expertise in Machine Learning & EDA 
 - 📫 How to reach me ...Mail me at: Shahanawazshaik45@gmail.com
 
 <!---
